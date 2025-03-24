@@ -1,1 +1,1 @@
-# Excel-Production-dashboard
+I have created a Production Dashboard in Excel using Pivot Tables, Charts, and Slicers to analyze production performance. It displays key insights like tasks managed by each manager, production units by month, total production cost by product type, and cost per unit. I have also added interactive slicers to filter data by gender, age groups, regions, and quarters. This helps in making data-driven decisions and improving efficiency.
